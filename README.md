@@ -24,6 +24,13 @@ The script is based on an article rewritten by **杨辣子**, and this script on
 
 ---
 
+> ## Example picture
+>
+> ![Commandline run](/images/VSCode-runcode.png "CmdDos-runcode")
+> ![Commandline run](/images/CmdDos-runcode.png "CmdDos-runcode")
+
+---
+
 > ## Credits
 >
 > - [by 杨辣子 - 52pojie.cn](https://www.52pojie.cn/thread-1469297-1-1.html)
